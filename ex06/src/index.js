@@ -1,9 +1,9 @@
 function main() {
     // Only change code below this line
 
-    var x = 5;
+    var x = 7;
 
-    var y = 8;
+    var y = 12;
 
     var z = "My name is ";
     // Only change code above this line
